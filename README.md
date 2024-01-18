@@ -1,0 +1,2 @@
+# OC-AMD-Ryzen-9-7900X-ASUS-TUF-X670E-RX6800XT-AQC107
+Hackintosh Opencore V 0.9.7 Sonoma 14.2.1
